@@ -14,7 +14,7 @@ const highScore =[
 Score:3}
 ]
 var Input1=ReadLineSync.question(
-  "Enter your Name: ")
+  "Enter your Name : ")
 
 console.log("Welcome to the game of my life "+Input1)
 
